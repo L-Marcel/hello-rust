@@ -1,0 +1,7 @@
+{
+  "name": "Hello, Rust!",
+  "translatedDescription": "Meu primeiro código feito em Rust!",
+  "technologies": [
+    "Rust"
+  ]
+}
